@@ -34,3 +34,21 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Android build files
+/android/app/build/
+/.android/
+
+/# iOS build files
+/ios/build/
+/ios/Pods/
+*.hmap
+*.xcuserdata
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# React Native cache
+.gradle/
